@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to right, rgb(253, 142, 45), #ff4545);
+    text-align: center;
+}
+
+h1{
+    transition: 1s;
+    color: white;
+    font-size: 40px;
+}
+
+#nameInput{
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+#joinBtn{
+    width: 100px;
+    font-size: 20px;
+    border: 0;
+    border-radius: 15px;
+}
+#joinBtn:hover{
+    background-color: grey;
+}
+
+#info{
+    margin-top: 130px;
+}
